@@ -36,7 +36,7 @@ Register using the provided URL or by using the Hardware ID and Challenge Key ma
 
 Get location:
 ```
-sudo install jq
+sudo apt install jq
 curl -s https://ipinfo.io | jq '.city, .region, .country, .loc'
 ```
 # Copy Register URL to Website
