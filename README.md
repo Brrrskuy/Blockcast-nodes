@@ -17,7 +17,7 @@ register block cast nodes dashboard [https://app.blockcast.network](https://app.
 # Clone Repository 
 ```
 git clone https://github.com/Blockcast/beacon-docker-compose.git
-cd Blockcast
+cd beacon-docker-compose
 ```
 # Run Nodes
 Pulls the image associated with the service defined in the `compose.yaml` file:
